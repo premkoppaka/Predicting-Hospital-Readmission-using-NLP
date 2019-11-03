@@ -1,3 +1,5 @@
+<img src="images/hospital_revolving_door.jpg" width="400" />
+
 # Predicting-Hospital-Readmission-using-NLP
 In this project, I build a machine learning model to predict 30-day unplanned hospital re-admission using clinical notes.
 
